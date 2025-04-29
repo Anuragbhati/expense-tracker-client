@@ -36,3 +36,4 @@ npm run build
 ## Deployment
 
 Application deployed on vercel
+https://xpense-tracker-umber.vercel.app/
