@@ -119,13 +119,7 @@ const Sidebar = () => {
             <i className="fas fa-tags"></i>
             <span>Categories</span>
           </SidebarLink>
-          {/* <SidebarLink
-            to="/analytics"
-            className={location.pathname === "/analytics" ? "active" : ""}
-          >
-            <i className="fas fa-chart-bar"></i>
-            <span>Analytics</span>
-          </SidebarLink> */}
+
           <LogoutButton onClick={handleLogout}>
             <i className="fas fa-sign-out-alt"></i>
             <span>Logout</span>

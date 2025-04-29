@@ -67,7 +67,6 @@ const Auth = () => {
     <AuthContainer>
       <AuthCard>
         <AuthHeader>
-          <img src={"../../public/spending.png"} alt="Expense Tracker Logo" />
           <AuthTitle>
             {mode === "login" ? "Welcome Back" : "Get Started"}
           </AuthTitle>
